@@ -1,0 +1,1 @@
+# Emotion-report-about-Liner-and-logistic-regression-and-Perceptron-Sigmoid-function
