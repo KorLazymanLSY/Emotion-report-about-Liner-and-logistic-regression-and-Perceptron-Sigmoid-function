@@ -1,13 +1,13 @@
 # Emotion-report-about-Liner-and-logistic-regression-and-Perceptron-Sigmoid-function
 수치예측:1. 선형회귀 2.손실함수,경사하강법
 
-1.선형회귀:  ![img](file:///C:\Users\HJAN\AppData\Local\Temp\DRW00002100bd6c.gif)  
+1.선형회귀:  <image src![img](file:///C:\Users\HJAN\AppData\Local\Temp\DRW00002100bd6c.gif)  
 
 b는 양수로서 기울기를 조정하다가 분산되어있는 값들이 최소한의 거리가 되는 값을 찾고,
 
 X,Y의 값의 관계를 가장 비슷하게 찾아내어 정리하는 2차원의 가장 간단한 함수입니다.
 
-  ![그림입니다.  원본 그림의 이름: CLP00002100bd47.bmp  원본 그림의 크기: 가로 283pixel, 세로 283pixel](file:///C:\Users\HJAN\AppData\Local\Temp\Hnc\BinData\EMB00002100bd48.bmp)  
+  ![그림입니다.  원본 그림의 이름: CLP00002100bd47.bmp  원본 그림의 크기: 가로 283pixel, 세로 283pixel]<image src(file:///C:\Users\HJAN\AppData\Local\Temp\Hnc\BinData\EMB00002100bd48.bmp)  
 
 \2. 손실함수:손실함수는  오차를 나타내는 방법중 하나로서 인공 신경만 학습의 목표로서 이 함수의 결과값을 최소로 하는 방법이다. 아래는 손실함수중 하나인 평균제곱오차이다. 이를 통하여 기울기를 수정한다.
 
